@@ -1,5 +1,7 @@
 ## 👤 About Me:
-Hi, I'm Hanif! 👋<br><br>I am a Statistics and Data Science student, focused on leveraging data through programming and statistical modeling. I enjoy building predictive models and exploring the mathematical foundations behind machine learning algorithms
+Hi, I'm Hanif! 👋<br><br>I am a Statistics and Data Science student with a keen interest in the technical side of data. I enjoy exploring how to manage data pipelines, perform statistical analysis, and implement AI concepts through code.
+
+I mainly use Python, R, and SQL to build my projects. This is a place for me to document my learning journey, refine my logic, and share the simple projects I create as I dive deeper into the world of data science and AI.
 
 
 ## 🌐 Socials:
