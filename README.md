@@ -1,10 +1,10 @@
 ## 👤 About Me:
 ### Hi there 👋 I'm Hanif
 
-- 📊 Studying **Statistics and Data Science** at IPB University 🔍 👤
-- 🌱 I’m currently learning **Machine Learning & Statistics** 📖 👤
-- 💡 Interested in **Data Science, Data Engineering, and AI** 🤖 💻
-- 🛠️ Building **simple projects** to refine my logic and document my journey 📂 👤
+- 📊 Studying **Statistics and Data Science** at IPB University
+- 🌱 I’m currently learning **Machine Learning & Statistics**
+- 💡 Interested in **Data Science, Data Engineering, and AI**
+- 🛠️ Building **simple projects** to refine my logic and document my journey
 
 
 ## 🌐 Socials:
