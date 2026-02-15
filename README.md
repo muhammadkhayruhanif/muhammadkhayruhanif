@@ -28,7 +28,7 @@ I mainly use Python, R, and SQL to build my projects. This is a place for me to 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhammadkhayruhanif&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=muhammadkhayruhanif&theme=default_repocard&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkhayruhanif&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
