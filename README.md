@@ -3,7 +3,7 @@
 
 I am a Statistics and Data Science student with a keen interest in **Data Science, Data Engineering, and AI**. Currently, I am focusing on learning Machine Learning and Statistics to understand how to turn data into useful insights. I mainly use Python, R, and SQL to build projects.
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-khayruhanif)
 
 ## 💻 Tech Stack:
