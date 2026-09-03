@@ -27,11 +27,14 @@ I am a Statistics and Data Science student with a keen interest in **Data Scienc
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammadkhayruhanif&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=muhammadkhayruhanif&theme=default_repocard&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkhayruhanif&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=muhammadkhayruhanif&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="150" />
 
----
-[![](https://visitcount.itsvg.in/api?id=muhammadkhayruhanif&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=muhammadkhayruhanif&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="150" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadkhayruhanif&color=0a66c2&style=flat-square" alt="Visitor Count" />
+</div>
